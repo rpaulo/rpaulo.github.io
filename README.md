@@ -1,3 +1,3 @@
 # Rui Paulo's corner
 
-* <a href="articles/coffee.md">Coffee</a>
+* <a href="articles/coffee">Coffee</a>
