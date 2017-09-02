@@ -24,6 +24,8 @@ the general preparation of espresso and its drinks.
 
 ## Baratza Preciso
 
+<img src="preciso.jpg">
+
 We bought the Silvia and the Preciso as a combo from Seattle Coffee
 Gear.  Overall the buying experience was painless but I don't believe
 the Preciso is a good enough entry level grinder for espresso.
@@ -31,11 +33,14 @@ In our experience, the grind was too distrubuted which created a lot
 of channeling.
 Seattle Coffee Gear was not able to help much except by returning the
 grinder and the espresso machine and I decided to call Baratza.
+Turns out the Preciso had a broken plastic bit already.
 Baratza said the Vario was a better choice and for a bit more extra
 money they could get me the Vario if I returned the Preciso.
 We didn't think twice and the Vario arrived a few days later.
 
 ## Baratza Vario
+
+<img src="vario.jpg">
 
 This was our first entry level burr grinder.  It lasted 3 years and it
 was paired with a Silvia V2.  The grind distribution was much better
@@ -87,9 +92,6 @@ burrs would also fit.  I'm not sure why Mazzer didn't use these burrs
 in the first place because they are definitely better.  They cut the
 grind time in half (less heat) and they produce a little less
 clumping.  This didn't fix the rentention problem, of course.
-
-<br>
-<br><br><br><br><br><br>
 
 
 ## ECM Synchronika
