@@ -1,10 +1,9 @@
 <style type="text/css" style="display: none">
+
 img {
-    float:left;
+	float: left;
 }
-body {
-    float:right;
-}
+
 </style>
 
 # Musings on coffee (mostly espresso)
@@ -96,3 +95,4 @@ clumping.  This didn't fix the rentention problem, of course.
 ## ECM Synchronika
 
 <img src="synchronika.jpg">
+
