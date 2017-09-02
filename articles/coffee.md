@@ -59,7 +59,38 @@ over time they would accumulate.
 
 <img src="mazzer.jpg">
 
-This is the Mazzer.
+The Mazzer Mini-E has 64mm flat burrs and was bought to replace the
+Vario.  The shortcomings of the Vario for espresso, a good promotion
+from Whole Latte Love and a buyer for the Vario led us to chose the
+Mazzer Mini.  This grinder was initially paired with the Silvia and we
+noticed a improvement on the coffee quality immediately.  We also
+saw how consitent it was.  Even today, apart from the retention
+problem, I can measure 18.0 grams of coffee beans and what will come
+out is 18.0 (+- 0.1) ground coffee.
+The most annoying problem with this grinder is how many beans it
+retains.  I've measured between 3 and 4 grams can be retained in:
+
+* the burrs
+* the burr casing
+* the funnel
+* the anti-static screen
+
+By far the worst seems to be the anti-static screen which is used to
+reduce static and clumping but has the side effect of retaining
+beans.  When making several shots in a row (like in a coffee shop)
+it's definitely not a problem, but you wouldn't want to use ground
+coffee that's been siting in the grinder.  The only way to deal with
+this problem is to grind 4 grams of coffee (wasteful) or to live with
+it and accept that the first coffee of the day might not be perfect. 
+
+About 2 years after purchasing it, I discovered that the *Super Jolly*
+burrs would also fit.  I'm not sure why Mazzer didn't use these burrs
+in the first place because they are definitely better.  They cut the
+grind time in half (less heat) and they produce a little less
+clumping.  This didn't fix the rentention problem, of course.
+
+<br>
+<br><br><br><br><br><br>
 
 
 ## ECM Synchronika
