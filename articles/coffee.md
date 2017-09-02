@@ -37,6 +37,7 @@ Turns out the Preciso had a broken plastic bit already.
 Baratza said the Vario was a better choice and for a bit more extra
 money they could get me the Vario if I returned the Preciso.
 We didn't think twice and the Vario arrived a few days later.
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Baratza Vario
 
@@ -53,6 +54,8 @@ and we had to hold them all the time when we were griding.  The second
 problem was how messy the internals would get after a few months.  For
 some reason the ground beans sometimes would leak inside the case and
 over time they would accumulate.
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Rancilio Silvia V2
 
@@ -72,16 +75,16 @@ saw how consitent it was.  Even today, apart from the retention
 problem, I can measure 18.0 grams of coffee beans and what will come
 out is 18.0 (+- 0.1) ground coffee.
 The most annoying problem with this grinder is how many beans it
-retains.  I've measured between 3 and 4 grams can be retained in:
+retains.  I've measured between 3 and 4 grams retained in:
 
 * the burrs
 * the burr casing
 * the funnel
 * the anti-static screen
 
-By far the worst seems to be the anti-static screen which is used to
-reduce static and clumping but has the side effect of retaining
-beans.  When making several shots in a row (like in a coffee shop)
+The worst place, by far, seems to be the anti-static screen which is used to
+reduce static (of course) and clumping but has the side effect of retaining
+beans.  When making several shots in a row (like at a coffee shop)
 it's definitely not a problem, but you wouldn't want to use ground
 coffee that's been siting in the grinder.  The only way to deal with
 this problem is to grind 4 grams of coffee (wasteful) or to live with
