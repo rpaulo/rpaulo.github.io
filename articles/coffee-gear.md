@@ -1,4 +1,4 @@
-# Musings on coffee (mostly espresso)
+# Espresso coffee gear
 
 This page will take about espresso machines, grinders for espresso and
 the general preparation of espresso and its drinks.
