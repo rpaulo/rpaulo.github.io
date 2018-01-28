@@ -6,6 +6,7 @@ the general preparation of espresso and its drinks.
 ## Current gear
 
 * Mazzer Mini-E Type A
+* Mahlkönig PEAK
 * ECM Synchronika
 
 ## Previous gear
@@ -161,3 +162,9 @@ worth since the drip tray has to be cleaned daily anyway.
 The steam wand has two holes but they are tiny.  There's a learning
 curve to get proper milk, but it can be done.  We're currently
 experimenting with a four hole steam wand tip.
+
+## Mahlkönig PEAK
+
+<img src="peak.jpg" style="float: right">
+
+TBD!
