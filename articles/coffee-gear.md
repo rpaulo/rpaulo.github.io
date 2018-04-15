@@ -8,6 +8,9 @@ the general preparation of espresso and its drinks.
 * Mazzer Mini-E Type A
 * Mahlkönig PEAK
 * ECM Synchronika
+* Aillio Bullet R1
+* VST baskets (18g + 20g)
+* Caffelat VST tamper
 
 ## Previous gear
 
